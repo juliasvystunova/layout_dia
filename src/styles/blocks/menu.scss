@@ -1,0 +1,11 @@
+.menu {
+  height: 100vh;
+
+  &__nav-list {
+    flex-direction: column;
+  }
+
+  &__nav-item {
+    margin-top: 28px;
+  }
+}
