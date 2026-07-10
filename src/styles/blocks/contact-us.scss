@@ -49,7 +49,7 @@
     background-position: center;
 
     &--facebook {
-      background-image: url(src/images/icons/air-facebook.png);
+      background-image: url(/src/images/icons/air-facebook.png);
     }
 
     &--twitter {
@@ -57,12 +57,12 @@
 
       @include hover(
         background-image,
-        url(src/images/icons/air-twitter--hover--light--theme.png)
+        url(/src/images/icons/air-twitter--hover--light--theme.png)
       );
     }
 
     &--instagram {
-      background-image: url(src/images/icons/air-instagram.png);
+      background-image: url(/src/images/icons/air-instagram.png);
     }
   }
 }
