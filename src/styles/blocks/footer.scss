@@ -1,7 +1,7 @@
 .footer {
   background-color: $theme-background-color;
   color: $title-text-color;
-  border-radius: 30px;
+  border-top-right-radius: 200px;
   margin-top: 120px;
 
   @include on-tablet {
